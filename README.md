@@ -1,4 +1,4 @@
-Create a folder in your name as follows:  firstname-lastname.adoc
+Create a filename in your name as follows:  firstname-lastname.adoc
 
 Please use the following template in your template
 
