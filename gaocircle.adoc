@@ -1,0 +1,36 @@
+= A Trip Down the Memory Lane and Data Flow: Life Journey of Prof. Gao
+Gao Circle
+2021-09-13
+:appversion: 1.0.0
+:doctype: book
+:toc:
+:toc-title: Table of Contents
+:toclevels: 1
+// :sectnums:
+
+[preface]
+== Preface
+
+
+== Tsinghua
+
+include::tsinghua.adoc[]
+
+== MIT 
+
+include::mit.adoc[]
+
+== McGill
+
+include::mcgill.adoc[]
+
+== Udel
+
+include::udel.adoc[]
+
+== Retired
+
+include::retired.adoc[]
+
+
+
